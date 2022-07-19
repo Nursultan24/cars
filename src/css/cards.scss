@@ -1,0 +1,37 @@
+.cards{
+  padding: 100px 0;
+  background: #EEEEEE;
+  box-shadow: 0 9px 49px rgba(142, 136, 136, 0.16);
+  &__row{
+
+  }
+  &__list{
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 53px;
+  }
+&__title{
+  margin-bottom: 68px;
+  @include text($museo700,35px, 96.5%, #0f0f10);
+}
+
+&__item{
+  width: 33.33333%;
+  display: flex;
+  column-gap: 24px;
+  &-info{
+   display: flex;
+  }
+  &-title{
+    margin-bottom: 9px;
+    @include text($museo700,18px, 111%, #0f0f10);
+  }
+
+  &-desc{
+    @include text($museo300,15px, 18px, #0f0f10);
+
+  }
+}
+
+}
+

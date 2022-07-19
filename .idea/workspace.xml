@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32a15861-aabd-48e2-a4eb-3daf373fb86c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Sass File" />
+        <option value="Stylus File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BO4ixJqEQIaPln03yt7ayU4gyl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/icons" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\it-run\cars\src\icons" />
+      <recent name="C:\Users\user\Desktop\it-run\cars\src\fonts\museo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\it-run\cars\src\fonts\museo" />
+      <recent name="C:\Users\user\Desktop\it-run\cars\src\fonts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32a15861-aabd-48e2-a4eb-3daf373fb86c" name="Default Changelist" comment="" />
+      <created>1656763927943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656763927943</updated>
+      <workItem from="1656763932398" duration="1123000" />
+      <workItem from="1657022951415" duration="5062000" />
+      <workItem from="1657093531073" duration="3785000" />
+      <workItem from="1657109567793" duration="3269000" />
+      <workItem from="1657115312484" duration="3559000" />
+      <workItem from="1657194934197" duration="3758000" />
+      <workItem from="1657261186250" duration="1554000" />
+      <workItem from="1657291518258" duration="694000" />
+      <workItem from="1657603156060" duration="14636000" />
+      <workItem from="1657625235733" duration="7687000" />
+      <workItem from="1657689754164" duration="2396000" />
+      <workItem from="1657784124719" duration="2155000" />
+      <workItem from="1657798483380" duration="4321000" />
+      <workItem from="1657871875931" duration="7051000" />
+      <workItem from="1657972866906" duration="2227000" />
+      <workItem from="1658058325976" duration="268000" />
+      <workItem from="1658065030051" duration="3895000" />
+      <workItem from="1658231811929" duration="9000" />
+      <workItem from="1658232966061" duration="1089000" />
+      <workItem from="1658234738934" duration="449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="18" key="#Inspections" timestamp="1657606871046">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="275" y="18" key="#Inspections/0.0.1366.720@0.0.1366.720" timestamp="1657606871046" />
+    <state x="339" y="160" key="run.anything.popup" timestamp="1657784567562">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="339" y="160" key="run.anything.popup/0.0.1366.720@0.0.1366.720" timestamp="1657784567562" />
+    <state x="346" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1657196783340">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="346" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1366.720@0.0.1366.720" timestamp="1657196783340" />
+  </component>
+</project>
